@@ -96,6 +96,12 @@ body {
    color: #dac1c0;
 }
 
+/* Pause */
+.pause-btn {
+   background-color: #dac1c0;
+   color:#a16e83;
+}
+
 /* GitHub */
  .github_icon {
     margin: 20px 10px;
